@@ -30,209 +30,9 @@
 </head>
 
 <body class="sticky-header">
-    <!--[if lte IE 9]>
-    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-      <![endif]-->
-    <!-- ScrollUp Start Here -->
-    <a href="#wrapper" data-type="section-switch" class="scrollup">
-        <i class="fas fa-angle-double-up"></i>
-    </a>
-    <!-- ScrollUp End Here -->
-    <!-- Preloader Start Here -->
-    <div id="preloader"></div>
-    <!-- Preloader End Here -->
-    <div id="wrapper" class="wrapper">
-        <!-- Add your site or application content here -->
-        <!-- Header Area Start Here -->
-        <header class="header">
-            <div id="header-topbar" class="bg-Primary">
-                <div class="container">
-                    <div class="row d-flex align-items-center">
-                        <div class="col-lg-6">
-                            <div class="header-topbar-layout1">
-                                <ul class="header-top-left">
-                                    <li class="social-icon">
-                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-google-plus-g"></i></a>
-                                        <a href="#"><i class="fab fa-pinterest"></i></a>
-                                        <a href="#"><i class="fab fa-snapchat-ghost"></i></a>
-                                    </li>
-                                    <li class="opening-hour"><i class="far fa-clock"></i>Mon - Fri: 09.00am - 10.00 pm</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 d-flex justify-content-end">
-                            <div class="header-topbar-layout1">
-                                <div class="header-top-right">
-                                    <a href="#" class="header-top-btn"><i class="fas fa-bell"></i>Get A Quote</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div id="rt-sticky-placeholder"></div>
-            <div id="header-menu" class="header-menu menu-layout1">
-                <div class="container">
-                    <div class="row d-flex align-items-center">
-                        <div class="col-xl-2 col-lg-2">
-                            <div class="logo-area">
-                                <a href="index.html" class="temp-logo">
-                                    <img src="img/logo-dark.png" alt="logo" class="img-fluid">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-7 d-flex justify-content-end position-static">
-                            <nav id="dropdown" class="template-main-menu">
-                                <ul>
-                                    <li>
-                                        <a href="#">Home</a>
-                                        <ul class="dropdown-menu-col-1">
-                                            <li>
-                                                <a href="index.html">Home Page 1</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="#">About</a>
-                                        <ul class="dropdown-menu-col-1">
-                                            <li>
-                                                <a href="about1.html">About 1</a>
-                                            </li>
-                                            <li>
-                                                <a href="about2.html">About 2</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="#">Services</a>
-                                        <ul class="dropdown-menu-col-1">
-                                            <li>
-                                                <a href="service1.html">Services 1</a>
-                                            </li>
-                                            <li>
-                                                <a href="single-service1.html">Single Services 1</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="#">Blog</a>
-                                        <ul class="dropdown-menu-col-1">
-                                            <li>
-                                                <a href="blog1.html">Blog 1</a>
-                                            </li>
-                                            <li>
-                                                <a href="single-blog1.html">Blog Details</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="position-static hide-on-mobile-menu">
-                                        <a href="#">Pages</a>
-                                        <div class="template-mega-menu">
-                                            <div class="container">
-                                                <div class="row">
-                                                    <div class="col-3">
-                                                        <div class="menu-ctg-title">Pages</div>
-                                                        <ul class="sub-menu">
-                                                            <li>
-                                                                <a href="project1.html">
-                                                                    <i class="fas fa-handshake"></i>Project</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="single-project1.html">
-                                                                    <i class="fas fa-handshake"></i>Project Details</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="pricing-table.html">
-                                                                    <i class="far fa-money-bill-alt"></i>Pricing Table</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-3">
-                                                        <div class="menu-ctg-title">Pages</div>
-                                                        <ul class="sub-menu">
-                                                            <li>
-                                                                <a href="team1.html">
-                                                                    <i class="fas fa-user-tie"></i>Team 1</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="single-team.html">
-                                                                    <i class="fas fa-user-tie"></i>Single Team</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-3">
-                                                        <div class="menu-ctg-title">Pages</div>
-                                                        <ul class="sub-menu">
-                                                            <li>
-                                                                <a href="calculate-form.html">
-                                                                    <i class="fas fa-calculator"></i>Calculation Form</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                    <div class="col-3">
-                                                        <div class="menu-ctg-title">Pages</div>
-                                                        <ul class="sub-menu">
-                                                            <li>
-                                                                <a href="404.html">
-                                                                    <i class="fas fa-exclamation-triangle"></i>404 Error</a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="coming-soon.html">
-                                                                    <i class="fas fa-spinner"></i>Coming Soon</a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="hide-on-desktop-menu">
-                                        <a href="#">Pages</a>
-                                        <ul>
-                                            <li>
-                                                <a href="about1.html">About</a>
-                                            </li>
-                                            <li>
-                                                <a href="service1.html">Services</a>
-                                            </li>
-                                            <li>
-                                                <a href="project1.html">Project</a>
-                                            </li>
-                                            <li>
-                                                <a href="404.html">404 Error</a>
-                                            </li>
-                                            <li>
-                                                <a href="contact.html">Contact</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="contact.html">Contact</a>
-                                    </li>
-                                </ul>
-                            </nav>
-                        </div>
-                        <div class="col-lg-3 d-flex justify-content-end">
-                            <div class="header-action-layout1">
-                                <ul>
-                                    <li class="header-action-number">
-                                        <div class="item-icon">
-                                            <i class="fas fa-phone"></i>
-                                        </div>
-                                        <div class="item-content">
-                                            <div class="item-title">Quick Contact :</div>
-                                            <div class="item-number">+ 985 8844 000</div>
-                                        </div>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
+    <?php 
+    include "php_vendor/navbar.php";
+    ?>
         <!-- Header Area End Here -->
         <!-- Inne Page Banner Area Start Here -->
         <section class="inner-page-banner bg-common" data-bg-image="img/figure/breadcumb.jpg">
@@ -243,7 +43,7 @@
                             <h1>Our Latest Blogs</h1>
                             <ul>
                                 <li>
-                                    <a href="index.html">Home</a>
+                                    <a href="index.php">Home</a>
                                 </li>
                                 <li>Blogs</li>
                             </ul>
@@ -262,11 +62,11 @@
                             <div class="col-md-6 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.html"><img src="img/blog/blog3.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog3.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
                                         <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
-                                        <h3 class="item-title"><a href="single-blog1.html">What is Best domin Name For Business</a></h3>
+                                        <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
                                         <div class="entry-meta">
@@ -281,11 +81,11 @@
                             <div class="col-md-6 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.html"><img src="img/blog/blog4.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog4.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
                                         <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
-                                        <h3 class="item-title"><a href="single-blog1.html">What is Best domin Name For Business</a></h3>
+                                        <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
                                         <div class="entry-meta">
@@ -300,11 +100,11 @@
                             <div class="col-md-6 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.html"><img src="img/blog/blog5.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog5.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
                                         <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
-                                        <h3 class="item-title"><a href="single-blog1.html">What is Best domin Name For Business</a></h3>
+                                        <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
                                         <div class="entry-meta">
@@ -319,11 +119,11 @@
                             <div class="col-md-6 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.html"><img src="img/blog/blog6.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog6.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
                                         <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
-                                        <h3 class="item-title"><a href="single-blog1.html">What is Best domin Name For Business</a></h3>
+                                        <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
                                         <div class="entry-meta">
@@ -338,11 +138,11 @@
                             <div class="col-md-6 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.html"><img src="img/blog/blog7.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog7.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
                                         <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
-                                        <h3 class="item-title"><a href="single-blog1.html">What is Best domin Name For Business</a></h3>
+                                        <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
                                         <div class="entry-meta">
@@ -357,11 +157,11 @@
                             <div class="col-md-6 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.html"><img src="img/blog/blog8.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog8.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
                                         <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
-                                        <h3 class="item-title"><a href="single-blog1.html">What is Best domin Name For Business</a></h3>
+                                        <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
                                         <div class="entry-meta">
@@ -376,11 +176,11 @@
                             <div class="col-md-6 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.html"><img src="img/blog/blog1.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog1.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
                                         <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
-                                        <h3 class="item-title"><a href="single-blog1.html">What is Best domin Name For Business</a></h3>
+                                        <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
                                         <div class="entry-meta">
@@ -395,11 +195,11 @@
                             <div class="col-md-6 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.html"><img src="img/blog/blog2.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog2.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
                                         <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
-                                        <h3 class="item-title"><a href="single-blog1.html">What is Best domin Name For Business</a></h3>
+                                        <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
                                         <div class="entry-meta">
@@ -469,15 +269,15 @@
                             <ul class="recent-post-list">
                                 <li>
                                     <div class="post-date"><i class="far fa-clock"></i> 14 July, 2019</div>
-                                    <h6 class="item-title"><a href="single-blog1.html">Why Clany’s a life-saver for my flatshare!</a></h6>
+                                    <h6 class="item-title"><a href="single-blog1.php">Why Clany’s a life-saver for my flatshare!</a></h6>
                                 </li>
                                 <li>
                                     <div class="post-date"><i class="far fa-clock"></i> 14 July, 2019</div>
-                                    <h6 class="item-title"><a href="single-blog1.html">Why Clany’s a life-saver for my flatshare!</a></h6>
+                                    <h6 class="item-title"><a href="single-blog1.php">Why Clany’s a life-saver for my flatshare!</a></h6>
                                 </li>
                                 <li>
                                     <div class="post-date"><i class="far fa-clock"></i> 14 July, 2019</div>
-                                    <h6 class="item-title"><a href="single-blog1.html">Why Clany’s a life-saver for my flatshare!</a></h6>
+                                    <h6 class="item-title"><a href="single-blog1.php">Why Clany’s a life-saver for my flatshare!</a></h6>
                                 </li>
                             </ul>
                         </div>
@@ -580,7 +380,7 @@
                                 <div class="footer-menu-box">
                                     <ul class="footer-menu-list">
                                         <li>
-                                            <a href="about1.html">About Us</a>
+                                            <a href="about1.php">About Us</a>
                                         </li>
                                         <li>
                                             <a href="#">Testimonials</a>
