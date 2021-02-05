@@ -61,21 +61,24 @@
                                         <a href="index.php">Home</a>
                                     </li>
                                     <li>
-                                        <a href="#">About</a>
-                                        <ul class="dropdown-menu-col-1">
+                                        <a href="about1.php">About</a>
+                                        <!--<ul class="dropdown-menu-col-1">
                                             <li>
                                                 <a href="about1.php">About 1</a>
                                             </li>
                                             <li>
                                                 <a href="about2.php">About 2</a>
                                             </li>
-                                        </ul>
+                                        </ul>-->
                                     </li>
                                     <li>
-                                        <a href="#">Services</a>
+                                        <a href="service1.php">Services</a>
                                         <ul class="dropdown-menu-col-1">
                                             <li>
-                                                <a href="service1.php">Services</a>
+                                                <a href="single-service1.php">Single Service</a>
+                                            </li>
+                                            <li>
+                                                <a href="single-service1.php">Single Service</a>
                                             </li>
                                             <li>
                                                 <a href="single-service1.php">Single Service</a>
@@ -83,17 +86,17 @@
                                         </ul>
                                     </li>
                                     <li>
-                                        <a href="#">Blog</a>
+                                        <a href="blog1.php">Additional Content</a>
                                         <ul class="dropdown-menu-col-1">
                                             <li>
-                                                <a href="blog1.php">Blog</a>
+                                                <a href="single-blog1.php">Blog Details</a>
                                             </li>
                                             <li>
                                                 <a href="single-blog1.php">Blog Details</a>
                                             </li>
                                         </ul>
                                     </li>
-                                    <li class="position-static hide-on-mobile-menu">
+                                    <!--<li class="position-static hide-on-mobile-menu">
                                         <a href="#">Additional Content</a>
                                         <div class="template-mega-menu">
                                             <div class="container">
@@ -153,7 +156,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </li>
+                                    </li>-->
                                     <li class="hide-on-desktop-menu">
                                         <a href="#">Pages</a>
                                         <ul>
