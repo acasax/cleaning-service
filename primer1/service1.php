@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>clenix | Service 1</title>
+    <title>Grand folk company</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -232,39 +232,6 @@
             </div>
         </section>
         <!-- Service Area End Here -->
-        <!-- Banner Area Start Here -->
-        <section class="banner-wrap-layout2" data-bg-image="img/figure/banner-bg1.jpg">
-            <div class="container">
-                <div class="row d-flex align-items-center">
-                    <div class="col-lg-6 col-12">
-                        <div class="banner-box-layout4">
-                            <h2 class="item-title text-Primary">Together <span>We'll Explore</span> New Things</h2>
-                            <a href="#" class="btn-fill-md bg-accent btn-slide-hover text-primarytext">Book an Appointment<i class="fas fa-angle-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-12">
-                        <div class="banner-box-layout5">
-                            <div class="item-icon shape1">
-                                <img src="img/figure/icon-shape4.png" alt="shape">
-                            </div>
-                            <div class="item-icon shape2">
-                                <img src="img/figure/icon-shape3.png" alt="shape">
-                            </div>
-                            <div class="item-icon shape3">
-                                <img src="img/figure/icon-shape2.png" alt="shape">
-                            </div>
-                            <div class="item-icon shape4">
-                                <img src="img/figure/icon-shape1.png" alt="shape">
-                            </div>
-                            <div class="item-img">
-                                <img src="img/figure/banner-figure.png" alt="figure">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Banner Area End Here -->
         <!-- Footer Area Start Here -->
         <footer class="footer-wrap-layout1 section-shape1">
             <div class="container">

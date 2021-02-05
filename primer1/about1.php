@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>clenix | About 1</title>
+    <title>Grand folk company</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -130,89 +130,7 @@
             </div>
         </section>
         <!-- Why Choose Area End Here -->
-        <!-- Team Area Start Here -->
-        <section class="section-padding-lg-5">
-            <div class="container">
-                <div class="heading-layout1">
-                    <h2>Our Working Experts</h2>
-                    <p>Perspiciatis unde omnis iste natus error sit voluptatem accusantium dol oremque laudantium, totam remeaque ipsa</p>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <div class="team-box-layout1">
-                            <div class="item-img">
-                                <img src="img/team/team1.png" alt="team-thumb">
-                            </div>
-                            <div class="item-content">
-                                <h3 class="item-title"><a href="single-team.php">Richard Powel</a></h3>
-                                <div class="item-subtitle">Office Cleaner</div>
-                                <div class="item-social">
-                                    <ul>
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-12">
-                        <div class="team-box-layout1">
-                            <div class="item-img">
-                                <img src="img/team/team2.png" alt="team-thumb">
-                            </div>
-                            <div class="item-content">
-                                <h3 class="item-title"><a href="single-team.php">Merry Patel</a></h3>
-                                <div class="item-subtitle">Kitchen Cleaner</div>
-                                <div class="item-social">
-                                    <ul>
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-12 d-block d-md-none d-lg-block">
-                        <div class="team-box-layout1">
-                            <div class="item-img">
-                                <img src="img/team/team3.png" alt="team-thumb">
-                            </div>
-                            <div class="item-content">
-                                <h3 class="item-title"><a href="single-team.php">Johnson Jack</a></h3>
-                                <div class="item-subtitle">Floor Cleaner</div>
-                                <div class="item-social">
-                                    <ul>
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Team Area End Here -->
-        <!-- Banner Area Start Here -->
-        <section class="banner-wrap-layout1" data-bg-image="img/figure/banner-bg.jpg">
-            <div class="container">
-                <div class="row d-flex justify-content-xl-end">
-                    <div class="col-xl-6 col-12">
-                        <div class="banner-box-layout1">
-                            <h2 class="item-title">Together <span>We'll Explore</span> New Things</h2>
-                            <a href="#" class="btn-fill-md bg-accent btn-slide-hover text-primarytext">Read More<i class="fas fa-angle-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Banner Area End Here -->
+
         <!-- Process Area Start Here -->
         <section class="section-padding-lg-2">
             <div class="container">
@@ -267,27 +185,44 @@
             </div>
         </section>
         <!-- Process Area End Here -->
-        <!-- Call To Action Area Start Here -->
-        <section class="action-wrap-layout1 bg-lightprimary">
-            <div class="container">
+    <section class="brand-wrap-layout1">
+        <div class="container">
+            <div class="rc-carousel nav-control-layout1" data-loop="true" data-items="10" data-margin="30" data-autoplay="false" data-autoplay-timeout="3000" data-smart-speed="1000" data-dots="false" data-nav="true" data-nav-speed="false" data-r-x-small="1" data-r-x-small-nav="true"
+                 data-r-x-small-dots="false" data-r-x-medium="2" data-r-x-medium-nav="true" data-r-x-medium-dots="false" data-r-small="3" data-r-small-nav="true" data-r-small-dots="false" data-r-medium="4" data-r-medium-nav="true" data-r-medium-dots="false"
+                 data-r-large="5" data-r-large-nav="true" data-r-large-dots="false" data-r-extra-large="5" data-r-extra-large-nav="true" data-r-extra-large-dots="false">
                 <div class="row">
-                    <div class="col-lg-7 col-12">
-                        <div class="action-box-layout1">
-                            <h2 class="item-title mb-0">Get started with your free estimate</h2>
+                    <div class="col-12 col-md-3">
+                        <div class="brand-box-layout1">
+                            <div class="item-img">
+                                <img src="img/brand/brand1.png" alt="Brand">
+                            </div>
                         </div>
                     </div>
-                    <div class="col-lg-5 col-12">
-                        <div class="action-box-layout1">
+                    <div class="col-12 col-md-3">
+                        <div class="brand-box-layout1">
                             <div class="item-img">
-                                <img src="img/figure/figure4.png" alt="img">
+                                <img src="img/brand/brand2.png" alt="Brand">
                             </div>
-                            <a href="#" class="btn-fill-md btn-slide-hover bg-accent text-primarytext">Get an Estimate<i class="fas fa-angle-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="brand-box-layout1">
+                            <div class="item-img">
+                                <img src="img/brand/brand3.png" alt="Brand">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-3">
+                        <div class="brand-box-layout1">
+                            <div class="item-img">
+                                <img src="img/brand/brand4.png" alt="Brand">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-        <!-- Call To Action Area End Here -->
+        </div>
+    </section>
         <!-- Footer Area Start Here -->
         <footer class="footer-wrap-layout1 section-shape1">
             <div class="container">

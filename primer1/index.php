@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>clenix | Home 1</title>
+    <title>Grand folk company</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -59,9 +59,9 @@
                             <div class="container">
                                 <div class="slider-sub-text">The Best Cleaning Service Ever!</div>
                                 <h1 class="slider-big-text">Certified Company</h1>
-                                <div class="slider-paragraph">Our best-in-class WordPress solution, with additional optimization to make running a WooCommerce online store easy. Our prices are clear and straight forward so you can.</div>
+                                <div class="slider-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
                                 <div class="slider-btn-area">
-                                    <a href="#" class="item-btn-fill">Take Our Service
+                                    <a href="reservation.php" class="item-btn-fill">Take Our Service
                                         <i class="fas fa-angle-right"></i>
                                     </a>
                                 </div>
@@ -75,9 +75,9 @@
                             <div class="container">
                                 <div class="slider-sub-text">The Best Cleaning Service Ever!</div>
                                 <h1 class="slider-big-text">Certified Company</h1>
-                                <div class="slider-paragraph">Our best-in-class WordPress solution, with additional optimization to make running a WooCommerce online store easy. Our prices are clear and straight forward so you can.</div>
+                                <div class="slider-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
                                 <div class="slider-btn-area">
-                                    <a href="#" class="item-btn-fill">Take Our Service
+                                    <a href="reservation.php" class="item-btn-fill">Take Our Service
                                         <i class="fas fa-angle-right"></i>
                                     </a>
                                 </div>
@@ -91,9 +91,9 @@
                             <div class="container">
                                 <div class="slider-sub-text">The Best Cleaning Service Ever!</div>
                                 <h1 class="slider-big-text">Certified Company</h1>
-                                <div class="slider-paragraph">Our best-in-class WordPress solution, with additional optimization to make running a WooCommerce online store easy. Our prices are clear and straight forward so you can.</div>
+                                <div class="slider-paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
                                 <div class="slider-btn-area">
-                                    <a href="#" class="item-btn-fill">Take Our Service
+                                    <a href="reservation.php" class="item-btn-fill">Take Our Service
                                         <i class="fas fa-angle-right"></i>
                                     </a>
                                 </div>
@@ -142,7 +142,7 @@
                                 </ul>
                             </div>
                             <div class="action-area">
-                                <a href="#" class="btn-fill-sm bg-accent text-primarytext btn-slide-hover">Book a Service<i class="fas fa-angle-right"></i></a>
+                                <a href="reservation.php" class="btn-fill-sm bg-accent text-primarytext btn-slide-hover">Book a Service<i class="fas fa-angle-right"></i></a>
                                 <div class="phone-number"><i class="fas fa-phone"></i>+ 985 8844 000</div>
                             </div>
                         </div>
@@ -244,168 +244,6 @@
             </div>
         </section>
         <!-- Service Area End Here -->
-        <!-- Call To Action Area Start Here -->
-        <section class="action-wrap-layout1">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-7">
-                        <div class="action-box-layout1">
-                            <h2 class="item-title">Get started with your free estimate</h2>
-                        </div>
-                    </div>
-                    <div class="col-lg-5">
-                        <div class="action-box-layout1">
-                            <div class="item-img bottom-bubble">
-                                <img src="img/figure/figure4.png" alt="img">
-                            </div>
-                            <a href="#" class="btn-fill-md hover-textprimary bg-accent text-primarytext">Get an Estimate<i class="fas fa-angle-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Call To Action Area End Here -->
-        <!-- About Us Area Start Here -->
-        <section class="section-padding-md-2 section-bubble">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-7 col-lg-6 col-12">
-                        <div class="about-box-layout1">
-                            <h2 class="item-title">Our Goal is to Wow With Every Clean</h2>
-                            <div class="item-subtitle">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.</div>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. some form, by injected
-                                humour, some form, by injected humour.</p>
-                            <div class="list-item">
-                                <ul>
-                                    <li>
-                                        <h3>Customer Focused Reviews</h3>
-                                        <p>Aorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore.</p>
-                                    </li>
-                                    <li>
-                                        <h3>We Are Committed</h3>
-                                        <p>Aorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore.</p>
-                                    </li>
-                                    <li>
-                                        <h3>Regular &amp; Monthly Cleaning</h3>
-                                        <p>Aorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore.</p>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-5 col-lg-6 col-12">
-                        <div class="about-box-layout2">
-                            <h3 class="item-title">Request An Estimate</h3>
-                            <form class="contact-form-box" id="contact-form">
-                                <div class="row gutters-10">
-                                    <div class="col-12 form-group">
-                                        <select class="select2">
-                                            <option value="0">Residential</option>
-                                            <option value="1">Residential</option>
-                                            <option value="2">Commercial</option>
-                                            <option value="3">Plot</option>
-                                            <option value="4">Apartment</option>
-                                        </select>
-                                    </div>
-                                    <div class="col-md-6 col-12 form-group">
-                                        <select class="select2">
-                                            <option value="0">Property Type</option>
-                                            <option value="1">Residential</option>
-                                            <option value="2">Commercial</option>
-                                            <option value="3">Plot</option>
-                                            <option value="4">Apartment</option>
-                                        </select>
-                                    </div>
-                                    <div class="col-md-6 col-12 form-group">
-                                        <select class="select2">
-                                            <option value="0">-- Approx SF --</option>
-                                            <option value="1">400</option>
-                                            <option value="2">200</option>
-                                            <option value="3">600</option>
-                                            <option value="4">300</option>
-                                        </select>
-                                    </div>
-                                    <div class="col-md-6 col-12 form-group">
-                                        <select class="select2">
-                                            <option value="0">-- Bedrooms --</option>
-                                            <option value="1">Residential</option>
-                                            <option value="2">Commercial</option>
-                                            <option value="3">Plot</option>
-                                            <option value="4">Apartment</option>
-                                        </select>
-                                    </div>
-                                    <div class="col-md-6 col-12 form-group">
-                                        <select class="select2">
-                                            <option value="0">-- Bathrooms --</option>
-                                            <option value="1">Residential</option>
-                                            <option value="2">Commercial</option>
-                                            <option value="3">Plot</option>
-                                            <option value="4">Apartment</option>
-                                        </select>
-                                    </div>
-                                    <div class="col-md-6 col-12 form-group">
-                                        <select class="select2">
-                                            <option value="0">-- Frequency --</option>
-                                            <option value="1">Residential</option>
-                                            <option value="2">Commercial</option>
-                                            <option value="3">Plot</option>
-                                            <option value="4">Apartment</option>
-                                        </select>
-                                    </div>
-                                    <div class="col-md-6 col-12 form-group">
-                                        <input type="text" placeholder="ZIP Code" class="form-control" name="name" data-error="zip code field is required" required>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                    <div class="col-md-6 col-12 form-group datetime-picker">
-                                        <i class="far fa-calendar-alt"></i>
-                                        <input type="text" class="form-control rt-date" placeholder="dd/mm/yy" name="date" id="form-date" data-error="Subject field is required" required/>
-                                    </div>
-                                    <div class="col-md-6 col-12 form-group datetime-picker">
-                                        <i class="far fa-clock"></i>
-                                        <input type="text" class="form-control rt-time" placeholder="Time" name="time" id="form-time" data-error="Subject field is required" required/>
-                                    </div>
-                                    <div class="col-md-6 col-12 form-group">
-                                        <input type="text" placeholder="Name" class="form-control" name="name" data-error="Name field is required" required>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                    <div class="col-md-6 col-12 form-group">
-                                        <input type="text" placeholder="Phone" class="form-control" name="phone" data-error="Phone field is required" required>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                    <div class="col-12 form-group">
-                                        <input type="email" placeholder="E-mail Address" class="form-control" name="email" data-error="email field is required" required>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                    <div class="col-12 form-group mg-b-20">
-                                        <textarea placeholder="Address" class="textarea form-control" name="message" id="form-message" rows="2" cols="20" data-error="Message field is required" required></textarea>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                    <div class="col-12 form-group">
-                                        <button type="submit" class="fw-btn-fill bg-accent text-primarytext">Book Now<i class="fas fa-angle-right"></i></button>
-                                    </div>
-                                </div>
-                                <div class="form-response"></div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- About Us Area End Here -->
-        <!-- Banner Area Start Here -->
-        <section class="banner-wrap-layout1" data-bg-image="img/figure/banner-bg.jpg">
-            <div class="container">
-                <div class="row d-flex justify-content-end">
-                    <div class="col-xl-6 col-12">
-                        <div class="banner-box-layout1">
-                            <h2 class="item-title">Together <span>We'll Explore</span> New Things</h2>
-                            <a href="#" class="btn-fill-md btn-slide-hover bg-accent text-primarytext">Read More<i class="fas fa-angle-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Banner Area End Here -->
         <!-- Pricing Table Area Start Here -->
         <section class="section-padding-xl bg-Primary section-shape2">
             <div class="container">
@@ -707,6 +545,19 @@
             </div>
         </section>
          Blog Area End Here -->
+
+    <section class="banner-wrap-layout1" data-bg-image="img/figure/banner-bg.jpg">
+        <div class="container">
+            <div class="row d-flex justify-content-end">
+                <div class="col-xl-6 col-12">
+                    <div class="banner-box-layout1">
+                        <h2 class="item-title">Together <span>We'll Explore</span> New Things</h2>
+                        <a href="#" class="btn-fill-md btn-slide-hover bg-accent text-primarytext">Read More<i class="fas fa-angle-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
         <!-- Footer Area Start Here -->
         <footer class="footer-wrap-layout1 section-shape1">
             <div class="container">

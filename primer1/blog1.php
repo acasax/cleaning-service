@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>clenix | Blog 1</title>
+    <title>Grand folk company</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -40,12 +40,12 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="breadcrumbs-area">
-                            <h1>Our Latest Blogs</h1>
+                            <h1>Additional content</h1>
                             <ul>
                                 <li>
                                     <a href="index.php">Home</a>
                                 </li>
-                                <li>Blogs</li>
+                                <li>Additional content</li>
                             </ul>
                         </div>
                     </div>
@@ -57,160 +57,125 @@
         <section class="section-padding-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8">
+                    <div class="col-lg-12">
                         <div class="row">
-                            <div class="col-md-6 col-12">
+                            <div class="col-md-4 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
                                         <a href="single-blog1.php"><img src="img/blog/blog3.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
-                                        <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
                                         <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
-                                        <div class="entry-meta">
-                                            <ul>
-                                                <li><i class="fas fa-heart"></i><span>06</span> Likes</li>
-                                                <li><i class="fas fa-comment"></i><span>02</span> <a href="#">Comments</a></li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-12">
+
+                            <div class="col-md-4 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.php"><img src="img/blog/blog4.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog3.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
-                                        <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
                                         <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
-                                        <div class="entry-meta">
-                                            <ul>
-                                                <li><i class="fas fa-heart"></i><span>06</span> Likes</li>
-                                                <li><i class="fas fa-comment"></i><span>02</span> <a href="#">Comments</a></li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-12">
+
+                            <div class="col-md-4 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.php"><img src="img/blog/blog5.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog3.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
-                                        <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
                                         <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
-                                        <div class="entry-meta">
-                                            <ul>
-                                                <li><i class="fas fa-heart"></i><span>06</span> Likes</li>
-                                                <li><i class="fas fa-comment"></i><span>02</span> <a href="#">Comments</a></li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-12">
+
+                            <div class="col-md-4 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.php"><img src="img/blog/blog6.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog3.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
-                                        <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
                                         <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
-                                        <div class="entry-meta">
-                                            <ul>
-                                                <li><i class="fas fa-heart"></i><span>06</span> Likes</li>
-                                                <li><i class="fas fa-comment"></i><span>02</span> <a href="#">Comments</a></li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-12">
+
+                            <div class="col-md-4 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.php"><img src="img/blog/blog7.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog3.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
-                                        <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
                                         <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
-                                        <div class="entry-meta">
-                                            <ul>
-                                                <li><i class="fas fa-heart"></i><span>06</span> Likes</li>
-                                                <li><i class="fas fa-comment"></i><span>02</span> <a href="#">Comments</a></li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-12">
+
+                            <div class="col-md-4 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.php"><img src="img/blog/blog8.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog3.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
-                                        <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
                                         <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
-                                        <div class="entry-meta">
-                                            <ul>
-                                                <li><i class="fas fa-heart"></i><span>06</span> Likes</li>
-                                                <li><i class="fas fa-comment"></i><span>02</span> <a href="#">Comments</a></li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-12">
+
+                            <div class="col-md-4 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.php"><img src="img/blog/blog1.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog3.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
-                                        <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
                                         <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
-                                        <div class="entry-meta">
-                                            <ul>
-                                                <li><i class="fas fa-heart"></i><span>06</span> Likes</li>
-                                                <li><i class="fas fa-comment"></i><span>02</span> <a href="#">Comments</a></li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-12">
+
+                            <div class="col-md-4 col-12">
                                 <div class="blog-box-layout1">
                                     <div class="item-img">
-                                        <a href="single-blog1.php"><img src="img/blog/blog2.jpg" alt="blog-thumb"></a>
+                                        <a href="single-blog1.php"><img src="img/blog/blog3.jpg" alt="blog-thumb"></a>
                                     </div>
                                     <div class="item-content">
-                                        <div class="item-date"><i class="fas fa-calendar-alt"></i>24 July, 2019</div>
                                         <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
                                         <div class="item-author">By Mark Wily</div>
                                         <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
-                                        <div class="entry-meta">
-                                            <ul>
-                                                <li><i class="fas fa-heart"></i><span>06</span> Likes</li>
-                                                <li><i class="fas fa-comment"></i><span>02</span> <a href="#">Comments</a></li>
-                                            </ul>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
+
+                            <div class="col-md-4 col-12">
+                                <div class="blog-box-layout1">
+                                    <div class="item-img">
+                                        <a href="single-blog1.php"><img src="img/blog/blog3.jpg" alt="blog-thumb"></a>
+                                    </div>
+                                    <div class="item-content">
+                                        <h3 class="item-title"><a href="single-blog1.php">What is Best domin Name For Business</a></h3>
+                                        <div class="item-author">By Mark Wily</div>
+                                        <p>Aimply dummy text of the printing anden type setting industrym Ipsum has been the industry's standard.</p>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                         <div class="pagination-layout1 text-center pt-5">
                             <ul>
@@ -218,122 +183,6 @@
                                 <li><a href="#" class="nav-item">2</a></li>
                                 <li><a href="#" class="nav-item">3</a></li>
                                 <li><a href="#" class="nav-item">4</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 sidebar-break-md sidebar-widget-area">
-                        <div class="widget widget-search-box">
-                            <div class="heading-layout4">
-                                <h4>Search</h4>
-                            </div>
-                            <div class="input-group stylish-input-group">
-                                <input type="text" class="form-control" placeholder="Type here your topic ...">
-                                <span class="input-group-addon">
-                                    <button type="submit">
-                                        <span class="fas fa-search" aria-hidden="true"></span>
-                                </button>
-                                </span>
-                            </div>
-                        </div>
-                        <div class="widget widget-category">
-                            <div class="heading-layout4">
-                                <h4>Categories</h4>
-                            </div>
-                            <div class="category-list">
-                                <ul>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Cleaning Tips</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Green Cleaning</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Moving Cleaning</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>News</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Product Reviews</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Spring Cleaning</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="widget widget-recent-post">
-                            <div class="heading-layout4">
-                                <h4>Recent Posts</h4>
-                            </div>
-                            <ul class="recent-post-list">
-                                <li>
-                                    <div class="post-date"><i class="far fa-clock"></i> 14 July, 2019</div>
-                                    <h6 class="item-title"><a href="single-blog1.php">Why Clany’s a life-saver for my flatshare!</a></h6>
-                                </li>
-                                <li>
-                                    <div class="post-date"><i class="far fa-clock"></i> 14 July, 2019</div>
-                                    <h6 class="item-title"><a href="single-blog1.php">Why Clany’s a life-saver for my flatshare!</a></h6>
-                                </li>
-                                <li>
-                                    <div class="post-date"><i class="far fa-clock"></i> 14 July, 2019</div>
-                                    <h6 class="item-title"><a href="single-blog1.php">Why Clany’s a life-saver for my flatshare!</a></h6>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="widget widget-newsletter">
-                            <div class="item-img">
-                                <img src="img/figure/widget.png" alt="mail">
-                            </div>
-                            <div class="item-content">
-                                <h3 class="item-title">Newsletter</h3>
-                                <p>Subscribe us &amp; stay with updates </p>
-                                <form class="form-box">
-                                    <div class="row">
-                                        <div class="col-12 form-group">
-                                            <input type="email" placeholder="Enter your e-mail" class="form-control" name="name" data-error="Name field is required" required>
-                                            <div class="help-block with-errors"></div>
-                                        </div>
-                                        <div class="col-12 form-group">
-                                            <button type="submit" class="item-btn">Subscribe</button>
-                                        </div>
-                                    </div>
-                                    <div class="form-response"></div>
-                                </form>
-                            </div>
-                        </div>
-                        <div class="widget widget-archive">
-                            <div class="heading-layout4">
-                                <h4>Archives</h4>
-                            </div>
-                            <div class="archive-list">
-                                <ul>
-                                    <li>
-                                        <a href="#">January 2018 <span>(15)</span></a>
-                                    </li>
-                                    <li>
-                                        <a href="#">February 2018 <span>(15)</span></a>
-                                    </li>
-                                    <li>
-                                        <a href="#">March 2018 <span>(15)</span></a>
-                                    </li>
-                                    <li>
-                                        <a href="#">More +</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="widget widget-tag">
-                            <div class="heading-layout4">
-                                <h4>Tags</h4>
-                            </div>
-                            <ul class="tag-list">
-                                <li><a href="#">Cleaner</a></li>
-                                <li><a href="#">Office Cleaning</a></li>
-                                <li><a href="#">Glass Cleaning</a></li>
-                                <li><a href="#">Kitchen Cleaning</a></li>
-                                <li><a href="#">Apartment Cleaning</a></li>
-                                <li><a href="#">Floor Cleaning</a></li>
                             </ul>
                         </div>
                     </div>
