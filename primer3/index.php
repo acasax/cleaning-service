@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Kleenmax - Cleaning Company & Cleaning Services Template</title>
+    <title>Grand folk company</title>
 
     <!-- Place favicon.png in the root directory -->
     <script src="https://kit.fontawesome.com/42e48cdd3e.js" crossorigin="anonymous"></script>
@@ -23,115 +23,11 @@
 
     <!-- preloader area start -->
     <div id="preloader"></div>
-    <div class="body-overlay" id="body-overlay"></div>
-    <!-- preloader area end -->
 
-    <!-- search popup area start -->
-    <div class="search-popup" id="search-popup">
-        <form action="index.html" class="search-form">
-            <div class="form-group">
-                <input type="text" class="form-control" placeholder="Search.....">
-            </div>
-            <button type="submit" class="submit-btn"><i class="fa fa-search"></i></button>
-        </form>
-    </div>
-    <!-- //. search Popup -->
-
-    <div class="topbar-area">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8 align-self-center">
-                    <div class="topbar-left text-md-left text-center">
-                        <span><i class="fa fa-clock-o"></i>Opening Hours Mon-Sat: 9am-6pm</span>
-                        <span class="mr-0"><i class="fa fa-phone-alt"></i>Phone: +85784939922</span>
-                    </div>
-                </div>
-                <div class="col-md-4 align-self-center text-md-right text-center d-none d-lg-block">
-                    <div class="topbar-right">
-                        <ul class="social-area">
-                            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                            <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- navbar start -->
-    <div class="navbar-area">
-        <nav class="navbar navbar-expand-lg">
-            <div class="container nav-container">
-                <div class="responsive-mobile-menu">
-                    <button class="menu toggle-btn d-block d-lg-none" data-target="#themefie_main_menu" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="icon-left"></span>
-                        <span class="icon-right"></span>
-                    </button>
-                </div>
-                <div class="logo">
-                    <a class="main-logo" href="index.html"><img src="assets/img/logo.png" alt="img"></a>
-                </div>
-                <div class="nav-right-part nav-right-part-mobile">
-                    <ul>
-                        <li><a class="search header-search" href="#"><i class="fa fa-search"></i></a></li>
-                        <li class=""><a class="btn btn-base" href="contact.html"><i class="fa fa-bullhorn"></i>Get A Quote</a></li>
-                    </ul>
-                </div>
-                <div class="collapse navbar-collapse" id="themefie_main_menu">
-                    <ul class="navbar-nav menu-open">
-                        <li class="menu-item-has-children current-menu-item">
-                            <a href="#">Home</a>
-                            <ul class="sub-menu">
-                                <li><a href="index.html">Home 01</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="about.html">About</a>
-                        </li>
-                        <li class="menu-item-has-children current-menu-item">
-                            <a href="#">Services</a>
-                            <ul class="sub-menu">
-                                <li><a href="service-2.html">Services 02</a></li>
-                                <li><a href="service-details.html">Service-Details</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children current-menu-item">
-                            <a href="#">Blog</a>
-                            <ul class="sub-menu">
-                                <li><a href="blog.html">Blog </a></li>
-                                <li><a href="blog-details.html">Blog Details</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children current-menu-item">
-                            <a href="#">Pages</a>
-                            <ul class="sub-menu">
-                                <li><a href="working-process.html">Working Process</a></li>
-                                <li><a href="wcu.html">Why Choose Us</a></li>
-                                <li><a href="hwd.html">How We DO</a></li>
-                                <li><a href="team.html">Team</a></li>
-                                <li><a href="gallery.html">Gallery</a></li>
-                                <li><a href="pricing.html">Pricing</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="contact.html">Contact</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="nav-right-part nav-right-part-desktop">
-                    <ul>
-                        <li><a class="search header-search" href="#"><i class="fa fa-search"></i></a></li>
-                        <li class=""><a class="btn btn-base" href="contact.html"><i class="fa fa-bullhorn"></i>Get A Quote</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </div>
     <!-- navbar end -->
-
+    <?php
+    include "php_vendor/navbar.php";
+    ?>
     <!-- Banner Area Start-->
     <section class="banner-area text-center">
         <div class="banner-slider owl-carousel owl-theme">
@@ -142,7 +38,7 @@
                             <div class="banner-inner">
                                 <h6>We offer the best package for you</h6>
                                 <h1>Best Cleaning Service Provider Home, Office, Garden </h1>
-                                <a class="btn btn-base" href="service.html">See all service <i class="la la-arrow-circle-right"></i></a>
+                                <a class="btn btn-base" href="service.php">See all service <i class="la la-arrow-circle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -155,7 +51,7 @@
                             <div class="banner-inner">
                                 <h6>We offer the best package for you</h6>
                                 <h1>Best Cleaning Service Provider Home, Office, Garden </h1>
-                                <a class="btn btn-base" href="service.html">See all service <i class="la la-arrow-circle-right"></i></a>
+                                <a class="btn btn-base" href="service.php">See all service <i class="la la-arrow-circle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -170,7 +66,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6">
-                    <a href="service.html" class="single-intro-wrap">
+                    <a href="" class="single-intro-wrap">
                         <div class="media">
                             <div class="thumb">
                                 <img src="assets/img/icon/clock.png" alt="img">
@@ -182,7 +78,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <a href="service.html" class="single-intro-wrap">
+                    <a href="" class="single-intro-wrap">
                         <div class="media">
                             <div class="thumb">
                                 <img src="assets/img/icon/map-marker.png" alt="img">
@@ -194,7 +90,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-6">
-                    <a href="service.html" class="single-intro-wrap">
+                    <a href="" class="single-intro-wrap">
                         <div class="media">
                             <div class="thumb">
                                 <img src="assets/img/icon/hand.png" alt="img">
@@ -260,7 +156,7 @@
                 <div class="col-lg-7">
                     <div class="about-inner">
                         <div class="section-title mb-0">
-                            <h2>We Done Well Scince 1998. Keep Clean With CleanMax</h2>
+                            <h2>We Done Well Scince 2021. Grand folk company</h2>
                         </div>
                         <div class="kmx-accordion" id="accordion">
                             <div class="card kmx-inner-accordion">
@@ -304,8 +200,7 @@
                                 </div>
                             </div>
                         </div>
-                        <a class="btn btn-base mr-2" href="about.html">About More <img src="assets/img/icon/arrow-right.png" alt="img"></a>
-                        <a class="btn btn-white" href="blog-details.html">AN Abdullah</a>
+                        <a class="btn btn-base mr-2" href="about.php">About More <img src="assets/img/icon/arrow-right.png" alt="img"></a>
                     </div>
                 </div>
             </div>
@@ -332,9 +227,9 @@
                                 <div class="thumb">
                                     <img src="assets/img/service/1.png" alt="img">
                                 </div>
-                                <h4><a href="service.html">House Cleaning</a></h4>
+                                <h4><a href="service-details.php">House Cleaning</a></h4>
                                 <p>Booking online or offline for cleaning your house. Our team managment will serve home and start action to clean.</p>
-                                <a class="btn" href="service.html">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a class="btn" href="service-details.php">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                         <div class="item">
@@ -342,9 +237,9 @@
                                 <div class="thumb">
                                     <img src="assets/img/service/3.png" alt="img">
                                 </div>
-                                <h4><a href="service.html">Office Cleaning</a></h4>
+                                <h4><a href="service-details.php">Office Cleaning</a></h4>
                                 <p>Booking online or offline for cleaning your house. Our team managment will serve home and start action to clean.</p>
-                                <a class="btn" href="service.html">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a class="btn" href="service-details.php">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                         <div class="item">
@@ -352,9 +247,9 @@
                                 <div class="thumb">
                                     <img src="assets/img/service/3.png" alt="img">
                                 </div>
-                                <h4><a href="service.html">Floor Cleaning</a></h4>
+                                <h4><a href="service-details.php">Floor Cleaning</a></h4>
                                 <p>Booking online or offline for cleaning your house. Our team managment will serve home and start action to clean.</p>
-                                <a class="btn" href="service.html">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a class="btn" href="service-details.php">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                         <div class="item">
@@ -362,9 +257,9 @@
                                 <div class="thumb">
                                     <img src="assets/img/service/1.png" alt="img">
                                 </div>
-                                <h4><a href="service.html">House Cleaning</a></h4>
+                                <h4><a href="service-details.php">House Cleaning</a></h4>
                                 <p>Booking online or offline for cleaning your house. Our team managment will serve home and start action to clean.</p>
-                                <a class="btn" href="service.html">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a class="btn" href="service-details.php">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                         <div class="item">
@@ -372,9 +267,9 @@
                                 <div class="thumb">
                                     <img src="assets/img/service/3.png" alt="img">
                                 </div>
-                                <h4><a href="service.html">Office Cleaning</a></h4>
+                                <h4><a href="service-details.php">Office Cleaning</a></h4>
                                 <p>Booking online or offline for cleaning your house. Our team managment will serve home and start action to clean.</p>
-                                <a class="btn" href="service.html">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a class="btn" href="service-details.php">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                         <div class="item">
@@ -382,9 +277,9 @@
                                 <div class="thumb">
                                     <img src="assets/img/service/3.png" alt="img">
                                 </div>
-                                <h4><a href="service.html">Floor Cleaning</a></h4>
+                                <h4><a href="service-details.php">Floor Cleaning</a></h4>
                                 <p>Booking online or offline for cleaning your house. Our team managment will serve home and start action to clean.</p>
-                                <a class="btn" href="service.html">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a class="btn" href="service-details.php">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                         <div class="item">
@@ -392,9 +287,9 @@
                                 <div class="thumb">
                                     <img src="assets/img/service/1.png" alt="img">
                                 </div>
-                                <h4><a href="service.html">House Cleaning</a></h4>
+                                <h4><a href="service-details.php">House Cleaning</a></h4>
                                 <p>Booking online or offline for cleaning your house. Our team managment will serve home and start action to clean.</p>
-                                <a class="btn" href="service.html">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a class="btn" href="service-details.php">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                         <div class="item">
@@ -402,9 +297,9 @@
                                 <div class="thumb">
                                     <img src="assets/img/service/3.png" alt="img">
                                 </div>
-                                <h4><a href="service.html">Office Cleaning</a></h4>
+                                <h4><a href="service-details.php">Office Cleaning</a></h4>
                                 <p>Booking online or offline for cleaning your house. Our team managment will serve home and start action to clean.</p>
-                                <a class="btn" href="service.html">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a class="btn" href="service-details.php">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                         <div class="item">
@@ -412,9 +307,9 @@
                                 <div class="thumb">
                                     <img src="assets/img/service/3.png" alt="img">
                                 </div>
-                                <h4><a href="service.html">Floor Cleaning</a></h4>
+                                <h4><a href="service-details.php">Floor Cleaning</a></h4>
                                 <p>Booking online or offline for cleaning your house. Our team managment will serve home and start action to clean.</p>
-                                <a class="btn" href="service.html">Read More <i class="fa fa-angle-double-right"></i></a>
+                                <a class="btn" href="service-details.php">Read More <i class="fa fa-angle-double-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -487,7 +382,7 @@
                         </div>
                         <div class="details">
                             <h5><a href="working-process.html">Enjoy The Life</a></h5>
-                            <p>We will cleaned you. Lets enjoy the life.</p>
+                            <p>We will cleaned you. <br> Lets enjoy the life.</p>
                         </div>
                         <img class="animate-image" src="assets/img/work/5.png" alt="img">
                     </div>
@@ -496,24 +391,6 @@
         </div>
     </div>
     <!-- work-Area End-->
-
-    <!-- cta-Area start-->
-    <section class="cta-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-7">
-                    <div class="section-title-2">
-                        <h2 class="text-white">Get a Free Estimate?</h2>
-                        <p class="text-white">Let’s discuss what we do for you. We work big properties. You can get many offer and free services for keep working long time with us</p>
-                    </div>
-                </div>
-                <div class="col-lg-5 align-self-center text-lg-right">
-                    <a class="btn btn-base mt-4 mt-lg-0" href="service.html">See all service<img src="assets/img/icon/arrow-right.png" alt="img"></a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- cta-Area End-->
 
     <div class="why-choose-area bg-sky pd-top-90">
         <div class="container">
@@ -611,10 +488,10 @@
                         <div class="thumb" style="background: url(assets/img/other/3.png);"></div>
                     </div>
                     <div class="tab-pane" id="tab-4">
-                        <div class="thumb" style="background: url(assets/img/banner/bg-3.png);"></div>
+                        <div class="thumb" style="background: url(assets/img/banner/bg.png);"></div>
                     </div>
                     <div class="tab-pane" id="tab-5">
-                        <div class="thumb" style="background: url(assets/img/other/4.png);"></div>
+                        <div class="thumb" style="background: url(assets/img/other/3.png);"></div>
                     </div>
                 </div>
             </div>
@@ -656,43 +533,9 @@
                     </div>
                 </div>
             </div>
-            <a class="btn btn-base" href="team.html">Meet Our Team<img src="assets/img/icon/arrow-right.png" alt="img"></a>
         </div>
     </section>
     <!-- fact-count-Area End-->
-
-    <!-- recent-project-Area Start-->
-    <section class="recent-project-area pd-top-118 pd-bottom-90">
-        <div class="container-fluid">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="section-title text-center">
-                        <h2 class="title">Our Recent Projects</h2>
-                        <p>Dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="project-slider owl-carousel">
-                        <div class="item">
-                            <a href="project-details.html"><img src="assets/img/recent/1.png" alt="img"></a>
-                        </div>
-                        <div class="item">
-                            <a href="project-details.html"><img src="assets/img/recent/2.png" alt="img"></a>
-                        </div>
-                        <div class="item">
-                            <a href="project-details.html"><img src="assets/img/recent/3.png" alt="img"></a>
-                        </div>
-                        <div class="item">
-                            <a href="project-details.html"><img src="assets/img/recent/4.png" alt="img"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- recent-project-Area End-->
 
     <!-- team-Area Start-->
     <section class="team-area pd-top-88 pd-bottom-70 text-center">
@@ -824,197 +667,6 @@
     </section>
     <!-- client-Area End-->
 
-    <!-- pricing-Area Start-->
-    <section class="pricing-area pd-top-88 pd-bottom-138 text-center">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="section-title text-center">
-                        <h2>Our Pricing Plan</h2>
-                        <p>We working on house & office or anywhere to clean a place. We working to stay clean and tidy with a small costs. Let’s see what we doing</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-pricing-inner">
-                        <div class="pricing-details">
-                            <div class="thumb">
-                                <img src="assets/img/pricing/01.png" alt="img">
-                            </div>
-                            <h3>$39</h3>
-                            <h6>For a month</h6>
-                            <h4>Basic</h4>
-                        </div>
-                        <ul class="pricing-list">
-                            <li><a href="pricing.html">2 Bedrroms Cleaning</a></li>
-                            <li><a href="pricing.html">Window Cleaning</a></li>
-                            <li><a href="pricing.html">1 Livingroom Cleaning</a></li>
-                            <li><a href="pricing.html">Custom exercise plans</a></li>
-                            <li><a href="pricing.html">2 Bathroom Cleaning</a></li>
-                            <li class="last-child"><a href="pricing.html">Vacuming</a></li>
-                            <li><a class="btn btn-base" href="pricing.html">Book Now<i class="fa fa-angle-double-right ml-2" aria-hidden="true"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-pricing-inner">
-                        <div class="pricing-details">
-                            <div class="thumb">
-                                <img src="assets/img/pricing/02.png" alt="img">
-                            </div>
-                            <h3>$59</h3>
-                            <h6>For a month</h6>
-                            <h4>Premium</h4>
-                        </div>
-                        <ul class="pricing-list">
-                            <li><a href="pricing.html">2 Bedrroms Cleaning</a></li>
-                            <li><a href="pricing.html">Window Cleaning</a></li>
-                            <li><a href="pricing.html">1 Livingroom Cleaning</a></li>
-                            <li><a href="pricing.html">Custom exercise plans</a></li>
-                            <li><a href="pricing.html">2 Bathroom Cleaning</a></li>
-                            <li class="last-child"><a href="pricing.html">Vacuming</a></li>
-                            <li><a class="btn btn-base" href="pricing.html">Book Now<i class="fa fa-angle-double-right ml-2" aria-hidden="true"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-pricing-inner">
-                        <div class="pricing-details">
-                            <div class="thumb">
-                                <img src="assets/img/pricing/03.png" alt="img">
-                            </div>
-                            <h3>$79</h3>
-                            <h6>For a month</h6>
-                            <h4>Enterprice</h4>
-                        </div>
-                        <ul class="pricing-list">
-                            <li><a href="pricing.html">2 Bedrroms Cleaning</a></li>
-                            <li><a href="pricing.html">Window Cleaning</a></li>
-                            <li><a href="pricing.html">1 Livingroom Cleaning</a></li>
-                            <li><a href="pricing.html">Custom exercise plans</a></li>
-                            <li><a href="pricing.html">2 Bathroom Cleaning</a></li>
-                            <li class="last-child"><a href="pricing.html">Vacuming</a></li>
-                            <li><a class="btn btn-base" href="pricing.html">Book Now<i class="fa fa-angle-double-right ml-2" aria-hidden="true"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- pricing-Area End-->
-
-    <!-- free-estimate-Area Start-->
-    <div class="free-estimate-area pd-bottom-100">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-12">
-                    <div class="free-contact-area">
-                        <div class="row no-gutters">
-                            <div class="col-md-6 align-self-center">
-                                <div class="free-contact-inner media align-items-center mb-4 mb-md-0">
-                                    <div class="thumb">
-                                        <i class="far fa-envelope"></i>
-                                    </div>
-                                    <div class="media-body">
-                                        <h4>Our Mail Address:</h4>
-                                        <h6>Cleanmax@gmail.com</h6>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="free-contact-inner media align-items-center">
-                                    <div class="thumb">
-                                        <i class="fa fa-phone-alt"></i>
-                                    </div>
-                                    <div class="media-body">
-                                        <h4>Phone Number:</h4>
-                                        <h6>+0612-6373638, 6457854788</h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-8">
-                    <div class="section-title-2 text-center">
-                        <h2>Request A Free Estimate</h2>
-                        <p>We are powerful activr teamt, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-                        <a class="btn btn-white" href="wcu.html">See A Estimate<i class="fa fa-angle-double-right ml-2" aria-hidden="true"></i></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- free-estimate-Area End-->
-
-    <!-- blog-Area Start-->
-    <section class="blog-area pd-top-88 pd-bottom-70" style="background: url(assets/img/blog/bg.png)">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="section-title text-center">
-                        <h2>News & Updates</h2>
-                        <p>We working on house & office or anywhere to clean a place. We working to stay clean and tidy with a small costs. Let’s see what we doing</p>
-                    </div>
-                </div>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-wrap">
-                        <div class="thumb">
-                            <img src="assets/img/blog/1.png" alt="img">
-                            <span class="date">15 April 20</span>
-                        </div>
-                        <div class="blog-wrap-details">
-                            <h6><a href="blog-details.html">Clean Your Home Best Way</a></h6>
-                            <div class="meta">
-                                <span class="user"><i class="far fa-user"></i><a href="#">Post By: SalimRana</a></span>
-                                <span><img src="assets/img/icon/square.png" alt="img"><a href="#">Office</a></span>
-                            </div>
-                            <p>2 Bedrroms cleaning window Cleaning 1 Livingroom Cleaning Custom exercise plans 2 Bathroom Cleaning.</p>
-                            <a class="btn btn-white" href="blog-details.html">Read More<i class="fa fa-angle-double-right ml-2" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-wrap">
-                        <div class="thumb">
-                            <img src="assets/img/blog/2.png" alt="img">
-                            <span class="date">15 April 20</span>
-                        </div>
-                        <div class="blog-wrap-details">
-                            <h6><a href="blog-details.html">Clean Your Office Best Way</a></h6>
-                            <div class="meta">
-                                <span class="user"><i class="far fa-user"></i><a href="#">Post By: SalimRana</a></span>
-                                <span><img src="assets/img/icon/square.png" alt="img"><a href="#">Office</a></span>
-                            </div>
-                            <p>2 Bedrroms cleaning window Cleaning 1 Livingroom Cleaning Custom exercise plans 2 Bathroom Cleaning.</p>
-                            <a class="btn btn-white" href="blog-details.html">Read More<i class="fa fa-angle-double-right ml-2" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog-wrap">
-                        <div class="thumb">
-                            <img src="assets/img/blog/3.png" alt="img">
-                            <span class="date">15 April 20</span>
-                        </div>
-                        <div class="blog-wrap-details">
-                            <h6><a href="blog-details.html">Clean Your Kitchen Best Way</a></h6>
-                            <div class="meta">
-                                <span class="user"><i class="far fa-user"></i><a href="#">Post By: SalimRana</a></span>
-                                <span><img src="assets/img/icon/square.png" alt="img"><a href="#">Office</a></span>
-                            </div>
-                            <p>2 Bedrroms cleaning window Cleaning 1 Livingroom Cleaning Custom exercise plans 2 Bathroom Cleaning.</p>
-                            <a class="btn btn-white" href="blog-details.html">Read More<i class="fa fa-angle-double-right ml-2" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- blog-Area End-->
 
     <!-- partner-Area Start-->
     <section class="partner-area pd-top-100 pd-bottom-100">
@@ -1075,112 +727,9 @@
     <!-- subscribe-Area end-->
 
     <!-- footer area start -->
-    <footer class="footer-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-sm-6">
-                    <div class="footer-widget widget">
-                        <a class="logo" href="index.html"><img src="assets/img/logo-2.png" alt="#"></a>
-                        <p><i class="fas fa-map-marker-alt"></i>564, Manon road, F1 456 Caron Town. </p>
-                        <p><i class="fas fa-phone-alt"></i>+145-657(565)475</p>
-                        <p><i class="far fa-envelope"></i>Kleenmaxmax@gmail.com</p>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-4 col-sm-6">
-                    <div class="footer-widget widget widget_link">
-                        <h4 class="widget-title">Services.</h4>
-                        <ul>
-                            <li><a href="#"><i class="fas fa-angle-double-right"></i>Window Clean</a></li>
-                            <li><a href="#"><i class="fas fa-angle-double-right"></i>Garden Clean</a></li>
-                            <li><a href="#"><i class="fas fa-angle-double-right"></i>Cleaning Tips</a></li>
-                            <li><a href="#"><i class="fas fa-angle-double-right"></i>Kitchen Clean</a></li>
-                            <li><a href="#"><i class="fas fa-angle-double-right"></i>Toilet Cleaning</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-lg-4 col-sm-6">
-                    <div class="footer-widget widget widget_link">
-                        <h4 class="widget-title">About Us.</h4>
-                        <ul>
-                            <li><a href="#"><i class="fas fa-angle-double-right"></i>About Us</a></li>
-                            <li><a href="#"><i class="fas fa-angle-double-right"></i>Blog</a></li>
-                            <li><a href="#"><i class="fas fa-angle-double-right"></i>Contact Us</a></li>
-                            <li><a href="#"><i class="fas fa-angle-double-right"></i>Sign in</a></li>
-                            <li><a href="#"><i class="fas fa-angle-double-right"></i>My account</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-5 col-sm-6">
-                    <div class="footer-widget widget widget_contact">
-                        <h4 class="widget-title">Contact Us.</h4>
-                        <p>We are availble eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est</p>
-                        <div class="social-area-footer">
-                            <span>Folllow Us</span>
-                            <ul>
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-middle">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8">
-                        <div class="footer-widget widget widget_contact mb-0">
-                            <h4 class="widget-title mb-4"><img class="mr-2" src="assets/img/icon/1.png" alt="">Thanks For Visiting Us.</h4>
-                            <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus cmodo viverra maecenas accumsan lacus vel facilisis. </p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 align-self-center">
-                        <div class="footer-post-slider owl-carousel">
-                            <div class="item">
-                                <div class="thumb">
-                                    <img src="assets/img/footer/1.png" alt="img">
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="thumb">
-                                    <img src="assets/img/footer/2.png" alt="img">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <!-- footer area end -->
-    <!--Footer bottom-->
-    <div class="footer-bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5 col-sm-11 align-self-center">
-                    <div class="footer-widget widget widget_link mb-0">
-                        <ul>
-                            <li><a href="contact.html">Terms & Conditions</a></li>
-                            <li><a href="contact.html">Privacy Policy</a></li>
-                            <li><a href="contact.html">Sitemap</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-2 col-sm-1 text-lg-center text-sm-right text-center align-self-center">
-                    <div class="back-to-top">
-                        <span class="back-top"><i class="fas fa-angle-double-up"></i></span>
-                    </div>
-                </div>
-                <div class="col-lg-5 align-self-center text-lg-right">
-                    <div class="copyright-area">
-                        <p>@ 2021, <a href="#">Kleenmax.</a> All right reserved</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php
+    include "php_vendor/footer.php";
+    ?>
     <!--Footer bottom-->
 
 

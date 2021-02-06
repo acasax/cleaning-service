@@ -38,7 +38,7 @@
                 <div class="col-md-3 col-sm-3">
                     <div class="logo">
                         <!-- Brand -->
-                        <a class="navbar-brand page-scroll sticky-logo" href="index.html">
+                        <a class="navbar-brand page-scroll sticky-logo" href="index.php">
                             <h1>Logo</h1>
                         </a>
                     </div>
@@ -58,7 +58,7 @@
                                     </li>
                                     <li><a class="pagess" href="blog-grid-1.php">Additional content</a>
                                     </li>
-                                    <li><a href="contact.html">contacts</a></li>
+                                    <li><a href="contact.php">contacts</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -90,9 +90,9 @@
                                         <li><a href="single-service.php">Single service</a></li>
                                     </ul>
                                 </li>
-                                <li><a class="pagess" href="blog-grid-1.html">Additional content</a>
+                                <li><a class="pagess" href="blog-grid-1.php">Additional content</a>
                                 </li>
-                                <li><a href="contact.html">contacts</a></li>
+                                <li><a href="contact.php">contacts</a></li>
                             </ul>
                         </nav>
                     </div>
