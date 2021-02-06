@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>clenix | Service Details 1</title>
+    <title>Grand folk company</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -60,10 +60,10 @@
         <section class="section-padding-12">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-8">
+                    <div class="col-lg-12">
                         <div class="single-service-box-layout1">
                             <div class="main-img">
-                                <img src="img/service/service9.jpg" alt="Kitchen Cleaning">
+                                <img src="img/slika.jpg" alt="Kitchen Cleaning">
                             </div>
                             <div class="service-content">
                                 <h2 class="item-title">Kitchen Cleaning Service </h2>
@@ -162,156 +162,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="service-faq">
-                                    <h3 class="item-title">Frequently Ask Questions</h3>
-                                    <p>Ahen an unknown printer took a galley of type and scrambled it to make a type specimen book areIt hasear survived not only five centuries, but also the leap into electronic typesetting, remaining essentiall yellow aw
-                                        unchangedh the release o type.Ahen an unknown printer took a galley of type scram.</p>
-                                    <div class="faq-box">
-                                        <div id="accordion" class="accordion">
-                                            <div class="card">
-                                                <div class="card-header" id="headingOne">
-                                                    <h5 class="heading-title" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Modern Equipment We Use</h5>
-                                                </div>
-                                                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                                                    <div class="card-body">
-                                                        Ahen an unknown printer took a galley of type and scrambled it to make a type specimen book areIt hasear survived not only five centuries, but also the leap into electronic typesetting, remaining essentiall yellow aw unchangedh.
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="card">
-                                                <div class="card-header" id="headingTwo">
-                                                    <h5 class="heading-title collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Qualified Workers</h5>
-                                                </div>
-                                                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-                                                    <div class="card-body">
-                                                        Ahen an unknown printer took a galley of type and scrambled it to make a type specimen book areIt hasear survived not only five centuries, but also the leap into electronic typesetting, remaining essentiall yellow aw unchangedh.
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="card">
-                                                <div class="card-header" id="headingThree">
-                                                    <h5 class="heading-title collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Modern Equipment We Use</h5>
-                                                </div>
-                                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-                                                    <div class="card-body">
-                                                        Ahen an unknown printer took a galley of type and scrambled it to make a type specimen book areIt hasear survived not only five centuries, but also the leap into electronic typesetting, remaining essentiall yellow aw unchangedh.
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="card">
-                                                <div class="card-header" id="headingFour">
-                                                    <h5 class="heading-title collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Modern Equipment We Use</h5>
-                                                </div>
-                                                <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordion">
-                                                    <div class="card-body">
-                                                        Ahen an unknown printer took a galley of type and scrambled it to make a type specimen book areIt hasear survived not only five centuries, but also the leap into electronic typesetting, remaining essentiall yellow aw unchangedh.
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 sidebar-break-md sidebar-widget-area">
-                        <div class="widget widget-category">
-                            <div class="heading-layout4">
-                                <h4>Categories</h4>
-                            </div>
-                            <div class="category-list">
-                                <ul>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Office Cleaning</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Kitchen Cleaning</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Bathroom Cleaning</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Window Cleaning</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Bedroom Cleaning</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Car Wash</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Carpet Cleaning</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fas fa-angle-right"></i>Floor Cleaning</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="widget widget-download">
-                            <div class="heading-layout4">
-                                <h4>Download Now</h4>
-                            </div>
-                            <div class="download-list">
-                                <ul>
-                                    <li>
-                                        <a href="#"><i class="far fa-file-pdf text-lightred"></i>Download Pdf File</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="far fa-file-word text-lightprimary"></i>Download Doc File</a>
-                                    </li>
-                                    <li>
-                                        <a href="#"><i class="fab fa-youtube text-red"></i>Video Download</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="widget widget-contact-form">
-                            <div class="heading-layout4">
-                                <h4>Have you Any Question?</h4>
-                            </div>
-                            <form class="contact-form-box" id="contact-form">
-                                <div class="row">
-                                    <div class="col-12 form-group">
-                                        <div class="form-icon"><i class="fas fa-user"></i></div>
-                                        <input type="text" placeholder="Name" class="form-control" name="name" data-error="Name field is required" required>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                    <div class="col-12 form-group">
-                                        <div class="form-icon"><i class="far fa-envelope"></i></div>
-                                        <input type="email" placeholder="E-mail Address" class="form-control" name="email" data-error="email field is required" required>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                    <div class="col-12 form-group">
-                                        <div class="form-icon"><i class="fas fa-phone-volume"></i></div>
-                                        <input type="text" placeholder="Phone" class="form-control" name="phone" data-error="Phone field is required" required>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                    <div class="col-12 form-group">
-                                        <div class="form-icon"><i class="fas fa-question"></i></div>
-                                        <input type="text" placeholder="Subject" class="form-control" name="phone" data-error="Phone field is required" required>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                    <div class="col-12 form-group">
-                                        <div class="form-icon"><i class="far fa-comments"></i></div>
-                                        <textarea placeholder="Address" class="textarea form-control" name="message" id="form-message" rows="4" cols="20" data-error="Message field is required" required></textarea>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                    <div class="col-12 form-group">
-                                        <button type="submit" class="fw-btn-fill bg-accent text-primarytext">Send Message</button>
-                                    </div>
-                                </div>
-                                <div class="form-response"></div>
-                            </form>
-                        </div>
-                        <div class="widget widget-banner">
-                            <div class="item-img">
-                                <img src="img/figure/widget-banner.png" alt="banner">
-                            </div>
-                            <div class="item-content">
-                                <h2 class="item-title"><span>30</span>% Discount</h2>
-                                <div class="item-subtitle">Promotion Offer 16 Days</div>
-                                <a href="#" class="fw-btn-fill bg-accent text-primarytext">Contact With US</a>
                             </div>
                         </div>
                     </div>

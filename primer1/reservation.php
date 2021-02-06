@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>clenix | Contact</title>
+    <title>Grand folk company</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -18,11 +18,21 @@
     <!-- MeanMenu CSS -->
     <link rel="stylesheet" href="css/meanmenu.min.css">
     <!-- Font Awesome CSS -->
+
     <script src="https://kit.fontawesome.com/42e48cdd3e.js" crossorigin="anonymous"></script>
     <!-- Animate CSS -->
     <link rel="stylesheet" href="css/animate.min.css">
     <!-- FlatIcon CSS -->
     <link rel="stylesheet" href="font/flaticon.css">
+    <!-- Nivo Slider CSS -->
+    <link rel="stylesheet" href="vendor/slider/css/nivo-slider.css">
+    <!-- Owl Carousel CSS -->
+    <link rel="stylesheet" href="vendor/OwlCarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendor/OwlCarousel/owl.theme.default.min.css">
+    <!-- Select 2 CSS -->
+    <link rel="stylesheet" href="css/select2.min.css">
+    <!-- Datetime Picker CSS -->
+    <link rel="stylesheet" href="css/jquery.datetimepicker.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css">
     <!-- Modernize js -->
@@ -31,30 +41,11 @@
 
 <body class="sticky-header">
 <?php
+
 include "php_vendor/navbar.php";
 ?>
 <!-- Header Area End Here -->
-<!-- Inne Page Banner Area Start Here -->
-<section class="inner-page-banner bg-common" data-bg-image="img/figure/breadcumb.jpg">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
-                <div class="breadcrumbs-area">
-                    <h1>Contact Us</h1>
-                    <ul>
-                        <li>
-                            <a href="index.php">Home</a>
-                        </li>
-                        <li>Contact</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Inne Page Banner Area End Here -->
-<!-- Blog Area Start Here -->
-<!-- About Us Area Start Here -->
+<!-- Slider Area Start Here -->
 <section class="section-padding-md-2 section-bubble">
     <div class="container">
         <div class="row">
@@ -180,133 +171,11 @@ include "php_vendor/navbar.php";
         </div>
     </div>
 </section>
-<!-- About Us Area End Here -->
+
 <!-- Footer Area Start Here -->
-<footer class="footer-wrap-layout1 section-shape1">
-    <div class="container">
-        <div class="footer-top-box">
-            <div class="row">
-                <div class="col-lg-3 col-sm-6 col-12">
-                    <div class="footer-box-layout1">
-                        <div class="footer-title">
-                            <h4>FEATURES</h4>
-                        </div>
-                        <div class="footer-menu-box">
-                            <ul class="footer-menu-list">
-                                <li>
-                                    <a href="#">Residential Services</a>
-                                </li>
-                                <li>
-                                    <a href="#">Commercial Services</a>
-                                </li>
-                                <li>
-                                    <a href="#">Vechile Wash</a>
-                                </li>
-                                <li>
-                                    <a href="#">Londry Facilities</a>
-                                </li>
-                                <li>
-                                    <a href="#">Carpet Removal</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-12">
-                    <div class="footer-box-layout1">
-                        <div class="footer-title">
-                            <h4>COMPANY</h4>
-                        </div>
-                        <div class="footer-menu-box">
-                            <ul class="footer-menu-list">
-                                <li>
-                                    <a href="about1.php">About Us</a>
-                                </li>
-                                <li>
-                                    <a href="#">Testimonials</a>
-                                </li>
-                                <li>
-                                    <a href="#">Terms</a>
-                                </li>
-                                <li>
-                                    <a href="#">Media Kit</a>
-                                </li>
-                                <li>
-                                    <a href="#">Sitemap</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-12">
-                    <div class="footer-box-layout1">
-                        <div class="footer-title">
-                            <h4>QUICK LINKS</h4>
-                        </div>
-                        <div class="footer-menu-box">
-                            <ul class="footer-menu-list">
-                                <li>
-                                    <a href="#">Features</a>
-                                </li>
-                                <li>
-                                    <a href="#">Pricing</a>
-                                </li>
-                                <li>
-                                    <a href="#">Partners</a>
-                                </li>
-                                <li>
-                                    <a href="#">Cloud Affiliate Program</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6 col-12">
-                    <div class="footer-box-layout1">
-                        <div class="footer-title">
-                            <h4>SIGN UP!</h4>
-                        </div>
-                        <div class="footer-newsletter">
-                            <p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-                            <div class="input-group stylish-input-group">
-                                <input type="text" class="form-control" placeholder="E-mail Address">
-                                <span class="input-group-addon">
-                                            <button type="submit">Submit</button>
-                                        </span>
-                            </div>
-                        </div>
-                        <div class="footer-social">
-                            <ul class="social-icon">
-                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                <li><a href="#"><i class="fab fa-pinterest"></i></a></li>
-                                <li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-bottom-box">
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="copyright">Copyright 2019 clenix. All Rights Reserved.</div>
-                </div>
-                <div class="col-md-6">
-                    <div class="footer-bottom-menu">
-                        <ul>
-                            <li><a href="#">Sitemap</a></li>
-                            <li><a href="#">Terms of Service</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
+<?php
+include "php_vendor/footer.php";
+?>
 <!-- Footer Area End Here -->
 </div>
 <!-- jquery-->
@@ -319,10 +188,21 @@ include "php_vendor/navbar.php";
 <script src="js/bootstrap.min.js"></script>
 <!-- MeanMenu js -->
 <script src="js/jquery.meanmenu.min.js"></script>
+<!-- Nivo Slider js -->
+<script src="vendor/slider/js/jquery.nivo.slider.js"></script>
+<script src="vendor/slider/home.js"></script>
+<!-- Owl Carousel js -->
+<script src="vendor/OwlCarousel/owl.carousel.min.js"></script>
+<!-- CounterUp js -->
+<script src="js/jquery.counterup.min.js"></script>
+<!-- WayPoints js -->
+<script src="js/waypoints.min.js"></script>
 <!-- Validator js -->
 <script src="js/validator.min.js"></script>
-<!-- Google Map js -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBtmXSwv4YmAKtcZyyad9W7D4AC08z0Rb4"></script>
+<!-- Select 2 js -->
+<script src="js/select2.min.js"></script>
+<!-- Datetime Picker js -->
+<script src="js/jquery.datetimepicker.full.min.js"></script>
 <!-- Main js -->
 <script src="js/main.js"></script>
 
